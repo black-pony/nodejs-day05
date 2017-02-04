@@ -1,7 +1,7 @@
 {
-  "name": "code",
+  "name": "nodejs-day05",
   "version": "1.0.0",
-  "description": "",
+  "description": "长沙前端第五天",
   "main": "app.js",
   "dependencies": {
     "bootstrap": "^3.3.6",
@@ -15,6 +15,14 @@
     "start": "node server.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "ericzheng",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/black-pony/nodejs-day05.git"
+  },
+  "bugs": {
+    "url": "https://github.com/black-pony/nodejs-day05/issues"
+  },
+  "homepage": "https://github.com/black-pony/nodejs-day05#readme"
 }

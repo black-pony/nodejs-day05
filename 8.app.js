@@ -1,7 +1,7 @@
 var http = require("http");
 var fs = require("fs");
 var path = require("path");
-
+var mime = require("mime");
 var server = http.createServer();
 server.on("request",function(request,response){
     //发送http头部
